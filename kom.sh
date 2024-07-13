@@ -1,4 +1,4 @@
-gitconfig --global user.email "pawcioleleeo@gmail.com"
+gitconfig --global user.email "pawciolelee@gmail.com"
 git config --global user.name "Pawciolele"
 git init
 git add lab3.sh
